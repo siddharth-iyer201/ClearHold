@@ -1,0 +1,114 @@
+[
+  {
+    "ticker": "XOM",
+    "categories": [
+      "Fossil fuels"
+    ],
+    "evidence": "Integrated oil and gas producer; Energy sector holding.",
+    "source": "EPA GHGRP / issuer classification"
+  },
+  {
+    "ticker": "CVX",
+    "categories": [
+      "Fossil fuels"
+    ],
+    "evidence": "Integrated oil and gas producer; Energy sector holding.",
+    "source": "EPA GHGRP / issuer classification"
+  },
+  {
+    "ticker": "COP",
+    "categories": [
+      "Fossil fuels"
+    ],
+    "evidence": "Oil and gas exploration and production company.",
+    "source": "EPA GHGRP / issuer classification"
+  },
+  {
+    "ticker": "EOG",
+    "categories": [
+      "Fossil fuels"
+    ],
+    "evidence": "Oil and gas exploration and production company.",
+    "source": "EPA GHGRP / issuer classification"
+  },
+  {
+    "ticker": "SLB",
+    "categories": [
+      "Fossil fuels"
+    ],
+    "evidence": "Oilfield services company.",
+    "source": "EPA GHGRP / issuer classification"
+  },
+  {
+    "ticker": "RTX",
+    "categories": [
+      "Weapons"
+    ],
+    "evidence": "Listed in the SIPRI Arms Industry Database.",
+    "source": "SIPRI"
+  },
+  {
+    "ticker": "BA",
+    "categories": [
+      "Weapons"
+    ],
+    "evidence": "Listed in the SIPRI Arms Industry Database.",
+    "source": "SIPRI"
+  },
+  {
+    "ticker": "LMT",
+    "categories": [
+      "Weapons"
+    ],
+    "evidence": "Listed in the SIPRI Arms Industry Database.",
+    "source": "SIPRI"
+  },
+  {
+    "ticker": "GD",
+    "categories": [
+      "Weapons"
+    ],
+    "evidence": "Listed in the SIPRI Arms Industry Database.",
+    "source": "SIPRI"
+  },
+  {
+    "ticker": "NOC",
+    "categories": [
+      "Weapons"
+    ],
+    "evidence": "Listed in the SIPRI Arms Industry Database.",
+    "source": "SIPRI"
+  },
+  {
+    "ticker": "PM",
+    "categories": [
+      "Tobacco"
+    ],
+    "evidence": "Tobacco product manufacturer.",
+    "source": "WHO / company classification"
+  },
+  {
+    "ticker": "MO",
+    "categories": [
+      "Tobacco"
+    ],
+    "evidence": "Tobacco product manufacturer.",
+    "source": "WHO / company classification"
+  },
+  {
+    "ticker": "ADM",
+    "categories": [
+      "Deforestation"
+    ],
+    "evidence": "Commodity producer assessed by Forest 500 for exposure to forest-risk commodities.",
+    "source": "Forest 500"
+  },
+  {
+    "ticker": "MDLZ",
+    "categories": [
+      "Deforestation"
+    ],
+    "evidence": "Consumer-goods company assessed by Forest 500 for exposure to forest-risk commodities.",
+    "source": "Forest 500"
+  }
+]

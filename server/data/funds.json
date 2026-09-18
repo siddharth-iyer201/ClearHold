@@ -1,0 +1,5 @@
+[
+ {"ticker":"IVV","name":"iShares Core S&P 500 ETF","benchmark":"S&P 500 Index","expenseRatio":0.03,"return3y":20.58,"volatility3y":12.94,"kind":"Broad market","asOf":"2026-09-16"},
+ {"ticker":"SUSA","name":"iShares ESG Optimized MSCI USA ETF","benchmark":"MSCI USA Extended ESG Select Index","expenseRatio":0.25,"return3y":18.85,"volatility3y":13.32,"kind":"ESG screened","asOf":"2026-09-16"},
+ {"ticker":"ESGU","name":"iShares ESG Aware MSCI USA ETF","benchmark":"MSCI USA Extended ESG Focus Index","expenseRatio":0.15,"return3y":20.09,"volatility3y":13.02,"kind":"ESG screened","asOf":"2026-09-16"}
+]
