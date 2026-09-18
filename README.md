@@ -6,7 +6,7 @@ ClearHold is an investment-transparency app that looks through an ETF, shows its
 
 ![ClearHold dashboard](public/screenshots/clearhold-dashboard.png)
 
-**Live demo:** deployment-ready for Render. The public link will be added here after the owner creates the service and the URL is verified.
+**Live demo:** https://clearhold.onrender.com/
 
 ## Features
 
